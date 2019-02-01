@@ -1,2 +1,2 @@
 # Transportation-Card
-A simple web project based on Flask
+It is just a very simple project. It has no GUI. It realized the function of to record transportation cards of one city.
